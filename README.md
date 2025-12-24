@@ -1,4 +1,4 @@
-# CBLOL-DB-2024
+# CBLOL-DB-2023
 # 🎮 Sistema de Banco de Dados - CBLOL 2023
 
 [Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
